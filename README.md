@@ -1,0 +1,2 @@
+# udemy_python_bootcamp_blackjack
+Simplified blackjack game
